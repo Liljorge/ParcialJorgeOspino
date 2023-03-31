@@ -1,0 +1,52 @@
+.divPagina{
+    display: flex;
+}
+.divizquierdo1{
+    width: 30%;
+}
+.divCentral1{
+    width: 30%;
+}
+.divDerecho{
+    width: 40%;
+}
+.HaciaDerecha{
+    display: flex;
+}
+.divImg{
+    margin-top: 5%;
+    
+}
+.jake{
+    margin-top: 5%;
+    
+}
+.HaciaDerecha2{
+ display: flex;
+}
+.Img2{
+    margin-top: 5%;
+}
+.jake2{
+    margin-top: 5%; 
+}
+.editImg{
+    margin-top: 2%;
+}
+.flex1{
+    display:flex ;
+}
+.divizquierdo2{
+    width: 30%;
+}
+.Hello{
+    margin-top: -5%;
+    padding-left: 15%;
+}
+.dot {
+    height: 25px;
+    width: 25px;
+    background-color: #bbb;
+    border-radius: 50%;
+    display: inline-block;
+  }
